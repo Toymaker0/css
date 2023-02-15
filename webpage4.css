@@ -1,0 +1,38 @@
+.header{
+    height: 30%;
+    width: 100%;
+    text-align: center;
+    background-color:aquamarine;
+    z-index: -1;
+    margin-top: 20px;
+}
+.wholepage{
+    height:1000px;
+    width: auto;
+    margin: auto;
+    text-align: center;
+    
+   
+}
+.button{
+    border-radius: 2px;
+    cursor:pointer;
+    background-color: rgb(90, 184, 90);
+}
+.boxes{
+    width: auto;
+    height: auto;
+    align-self: center;
+    box-sizing: border-box;
+    margin-left: 10%;
+    margin-top: -15%;
+}
+.box{
+    float: left;
+    border: 2px solid;
+    width:30%;
+    height: 40%;
+    margin: 5px;
+    background-color: aliceblue;
+}
+
